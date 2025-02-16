@@ -61,7 +61,7 @@ def calculate_compression_ratio(text):
     return original_size / compressed_size
 
 # Streamlit app
-st.title("Compression Ratio Calculator For Advanced Content Audits - By Emmanuel Dan")
+st.title("Compression Ratio Calculator For Advanced Content Audits")
 
 # Option for user to choose input type
 option = st.selectbox(
