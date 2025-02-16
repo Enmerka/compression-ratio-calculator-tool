@@ -61,7 +61,7 @@ def calculate_compression_ratio(text):
     return original_size / compressed_size
 
 # Streamlit app
-st.title("Compression Ratio Calculator For Advanced Content Audits")
+st.title("Compression Ratio Calculator For Advanced Content Audits - By Emmanuel Dan")
 
 # Option for user to choose input type
 option = st.selectbox(
@@ -166,9 +166,9 @@ if submit_button:
         st.pyplot(plt)
 
 # Sidebar for app instructions
-st.sidebar.title("My Name is Emmanuel, Here's What this App is About")
+st.sidebar.title("Hello, My Good Friend")
 st.sidebar.markdown("""
-### Join our knowledge loving community [Here](https://chat.whatsapp.com/KiHGrvcJX0i8kXP18aL2g2) + [Watch Video](https://youtu.be/3YbJxxqWspo)
+### Join this [Community](https://chat.whatsapp.com/KiHGrvcJX0i8kXP18aL2g2) + [Watch Video](https://youtu.be/3YbJxxqWspo)
 
 This tool helps content teams calculate the compression ratio of pages in order assess the quality and relevance of their content. The compression ratio gives insights into the following:
 
