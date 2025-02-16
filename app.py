@@ -166,7 +166,7 @@ if submit_button:
         st.pyplot(plt)
 
 # Sidebar for app instructions
-st.sidebar.title("How to Use This App")
+st.sidebar.title("About This App")
 st.sidebar.markdown("""
 ### Join our knowledge loving community [here](https://chat.whatsapp.com/KiHGrvcJX0i8kXP18aL2g2) 
 
