@@ -166,9 +166,9 @@ if submit_button:
         st.pyplot(plt)
 
 # Sidebar for app instructions
-st.sidebar.title("About This App")
+st.sidebar.title("My Name is Emmanuel, Here's What this App is About")
 st.sidebar.markdown("""
-### Join our knowledge loving community [here](https://chat.whatsapp.com/KiHGrvcJX0i8kXP18aL2g2) 
+### Join our knowledge loving community [Here](https://chat.whatsapp.com/KiHGrvcJX0i8kXP18aL2g2) + [Watch Video](https://youtu.be/3YbJxxqWspo)
 
 This tool helps content teams calculate the compression ratio of pages in order assess the quality and relevance of their content. The compression ratio gives insights into the following:
 
